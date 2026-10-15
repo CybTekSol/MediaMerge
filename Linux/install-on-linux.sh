@@ -72,7 +72,7 @@ fi
 
 mkdir -p "${INSTALL_DIR}"
 
-TARGET_SCRIPT="${INSTALL_DIR}/mediamerge"
+TARGET_SCRIPT="${INSTALL_DIR}/mediamerge.sh"
 TARGET_ICON="${INSTALL_DIR}/mediamerge.png"
 
 # Copy the application script and icon
